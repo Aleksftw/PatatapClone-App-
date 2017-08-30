@@ -1,4 +1,5 @@
 #  Patatap clone  
+### For live preview, click [here](https://aleksftw.github.io/PatatapClone-App-/)
 ---
 - [x] An interactive app that maps visual and acoustical output to user keystrokes.
 - [x] Each keystroke triggers a certain graphic animation and an audio response to be generated.
